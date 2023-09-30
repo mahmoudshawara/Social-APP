@@ -1,0 +1,2 @@
+# Social-APP
+Django project
